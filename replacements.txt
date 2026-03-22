@@ -1,5 +1,0 @@
-﻿emergent==>coner
-Emergent==>CONER
-emergentagent==>coner
-emergentbase==>coner
-emergent.sh==>coner.mx

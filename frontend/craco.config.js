@@ -81,11 +81,6 @@ webpackConfig.devServer = (devServerConfig) => {
   return devServerConfig;
 };
 
-// Wrap with visual edits (automatically adds babel plugin, dev server, and overlay in dev mode)
- else {
-      throw err;
-    }
-  }
-}
 
 module.exports = webpackConfig;
+
